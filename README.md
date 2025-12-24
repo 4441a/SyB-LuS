@@ -1,2 +1,3 @@
-# SyB-LuS
-Key Generator
+# SymBOLe
+
+    Natural Programming Language;
